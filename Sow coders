@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre mí- Klaudia</title>
+    <link rel="stylesheet" href="simple.css">
+</head>
+<body>
+    <h1>Hola soy Klaudia</h1> 
+    <p>Me encantan las ciencias específicamente la biología, la anatomía y la medicina.</p>
+    <img src="The Summ med.jpg" alt="Foto de Klaudia" width="200">
+    <h2> Mis hobbies son</h2>
+    <ul>
+        <li>Jugar volleyball</li>
+        <li>Estudiar</li>
+        <li>Ir de shopping</li>
+    </ul>
+</body>
